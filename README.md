@@ -1,7 +1,1 @@
-# minjaehan.github.io
-
-
-d
-d
-d
-d
+# minjaehan.github.i
