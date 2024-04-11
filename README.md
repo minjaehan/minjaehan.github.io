@@ -1,2 +1,2 @@
 # minjaehan.github.io
-helo im minjaehan. 
+hello im minjaehan. 
